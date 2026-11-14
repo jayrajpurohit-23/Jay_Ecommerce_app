@@ -129,7 +129,7 @@ Add your application screenshots here.
 
 | Shopping Cart | Order Summary |
 |---|---|
-| <img width="620" height="899" alt="Screenshot 2026-11-14 194918" src="https://github.com/user-attachments/assets/5eaff2a4-d627-4719-aa97-6994e44547c5" /><img width="629" height="902" alt="Screenshot 2026-11-14 194827" src="https://github.com/user-attachments/assets/5cf8bb14-51b4-4df1-9cc3-2475c25d6679" />
+| <img width="620" height="899" alt="Screenshot 2026-11-14 194918" src="https://github.com/user-attachments/assets/5eaff2a4-d627-4719-aa97-6994e44547c5" /> |<img width="629" height="902" alt="Screenshot 2026-11-14 194827" src="https://github.com/user-attachments/assets/5cf8bb14-51b4-4df1-9cc3-2475c25d6679" />
  | <img width="635" height="916" alt="Screenshot 2026-11-14 200216" src="https://github.com/user-attachments/assets/4b8b5ca9-c8df-455c-b869-53050e1c52e7" /> |
 
 ---
