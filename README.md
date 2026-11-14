@@ -184,7 +184,7 @@ This is an educational mini project developed for learning and academic demonstr
 
 Flutter & Dart Developer
 
-GitHub: [Your GitHub Profile](https://github.com/jayrajpurohit-23)
+GitHub: [GitHub Profile](https://github.com/jayrajpurohit-23)
 
 ---
 
