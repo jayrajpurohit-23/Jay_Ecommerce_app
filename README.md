@@ -125,11 +125,12 @@ Add your application screenshots here.
 
 | Home Screen | Product Listing |
 |---|---|
-| Add Home Screen Screenshot | Add Product Screenshot |
+| <img width="632" height="908" alt="Screenshot 2026-11-14 194938" src="https://github.com/user-attachments/assets/ccdb5778-15de-4ee3-9182-b50f1dceff64" /> | <img width="630" height="909" alt="Screenshot 2026-11-14 194929" src="https://github.com/user-attachments/assets/0b010a90-5d95-4fc9-9ed0-d17915c268f2" /> |
 
 | Shopping Cart | Order Summary |
 |---|---|
-| Add Cart Screenshot | Add Summary Screenshot |
+| <img width="620" height="899" alt="Screenshot 2026-11-14 194918" src="https://github.com/user-attachments/assets/5eaff2a4-d627-4719-aa97-6994e44547c5" /><img width="629" height="902" alt="Screenshot 2026-11-14 194827" src="https://github.com/user-attachments/assets/5cf8bb14-51b4-4df1-9cc3-2475c25d6679" />
+ | <img width="635" height="916" alt="Screenshot 2026-11-14 200216" src="https://github.com/user-attachments/assets/4b8b5ca9-c8df-455c-b869-53050e1c52e7" /> |
 
 ---
 
