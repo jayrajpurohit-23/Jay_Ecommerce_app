@@ -1,4 +1,4 @@
-# 🛍️ Flutter Shopping Cart App
+# 🛍️ Jay Store App
 
 A modern and responsive Shopping Cart Application developed using **Flutter and Dart** as part of the Mobile Application Development Lab Mini Project.
 
@@ -90,7 +90,7 @@ Follow these instructions to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/flutter-shopping-cart-app.git
+git clone https://github.com/jayrajpurohit-23/Jay_Ecommerce_app.git
 ```
 
 ### 2. Navigate to Project Directory
@@ -182,7 +182,7 @@ This is an educational mini project developed for learning and academic demonstr
 
 Flutter & Dart Developer
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+GitHub: [Your GitHub Profile](https://github.com/jayrajpurohit-23)
 
 ---
 
